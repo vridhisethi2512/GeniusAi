@@ -2,7 +2,7 @@ import axios from 'axios';
 
 // Create Axios instance with base URL pointing to the backend API v1
 const api = axios.create({
-    baseURL: 'http://localhost:5000/api/v1',
+    baseURL: 'https://geniusai-8a9b.onrender.com',
     timeout: 30000,
     headers: {
         'Content-Type': 'application/json',
