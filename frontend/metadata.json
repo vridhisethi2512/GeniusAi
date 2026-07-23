@@ -1,0 +1,6 @@
+{
+  "name": "PrepGenius AI",
+  "description": "An AI-powered mock interview practice and resume analysis optimizer application for landing dream tech roles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
